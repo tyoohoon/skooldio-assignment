@@ -68,7 +68,9 @@ function App() {
                 23,453
               </div>
             </div>
+            
           </div>
+          <Scores/>
         </div>
       </div>
     </div>

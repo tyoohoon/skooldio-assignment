@@ -24,7 +24,7 @@ function Scores() {
                 <div className='max-scores-title'>
                     20,845
                 </div>
-                <div className='max-scores-text'>
+                <div className='ma-scores-text'>
                     uuuuuu
                 </div>
             </div>
