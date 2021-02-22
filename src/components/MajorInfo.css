@@ -1,0 +1,50 @@
+.engi {
+    width: 80px;
+    height: 80px;
+    margin: 20px 20.6px 20px 22px;
+  }
+  .major-info {
+    height: 126px;
+  }
+  .faculty-name  {
+    width: 335.4px;
+    height: 16px;
+    font-family: Prompt;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--grapefruit);
+    margin: 24px 0 8px 0px;
+  }
+  .major-name {
+    width: 203px;
+    height: 16px;
+    margin: 5px 77px 24px 0px;
+    font-family: Prompt;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--warm-grey);
+  }
+  .uni-name  {
+    width: 217.2px;
+    height: 16px;
+    margin: 24px 61.8px 9px 0px;
+    font-family: Prompt;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.8;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--warm-grey);
+  }

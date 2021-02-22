@@ -1,0 +1,14 @@
+* {
+    border-style: solid;
+    border-width: 0.000001px;
+}
+.scores {
+    display: flex;
+}
+
+.min-scores {
+    display: inline-block;
+}
+.avg-scores {
+    display: inline-block;
+}
